@@ -1,0 +1,80 @@
+{
+  "gpRef": "",
+  "agRef": "",
+  "timeZone": {
+    "checkEnabled": true,
+    "validValues": [
+      "Kaliningrad",
+      "Kirov",
+      "Moscow",
+      "Samara",
+      "Saratov",
+      "Volgograd",
+      "Yekaterinburg",
+      "Omsk",
+      "Barnaul",
+      "Krasnoyarsk",
+      "Novosibirsk",
+      "Irkutsk",
+      "Chita",
+      "Vladivostok",
+      "Magadan",
+      "Sakhalin",
+      "Srednekolymsk",
+      "Anadyr",
+      "Kamchatka",
+      "Oral",
+      "Almaty",
+      "Baku",
+      "Yerevan",
+      "Minsk",
+      "Bishkek",
+      "Chisinau",
+      "Dushanbe",
+      "Tashkent"
+    ]
+  },
+  "locale": {
+    "checkEnabled": true,
+    "validValues": [
+      "ru",
+      "kz",
+      "am",
+      "az",
+      "by",
+      "kg",
+      "md",
+      "tj",
+      "uz"
+    ]
+  },
+  "mcc": {
+    "checkEnabled": true,
+    "validValues": [
+      "250",
+      "401",
+      "283",
+      "400",
+      "257",
+      "437",
+      "259",
+      "436",
+      "434"
+    ]
+  },
+  "isVirtual": {
+    "checkEnabled": true
+  },
+  "manufacturer": {
+    "checkEnabled": true,
+    "invalidValues": [
+      "Google"
+    ]
+  },
+  "brand": {
+    "checkEnabled": true,
+    "invalidValues": [
+      "google"
+    ]
+  }
+}
